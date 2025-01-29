@@ -31,3 +31,7 @@ i will estimate the time needed to finish this app:
 I will have at most have 20 hours this week for this project so my main objectif
 will be to learn really fast about  API and make it to use directly (5 hours),
 then make the app usable (15 hours)
+
+It took 10 hours to set swift on windows, in the manual you will find the solution that worked for me.
+
+

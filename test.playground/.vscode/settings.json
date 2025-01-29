@@ -1,0 +1,9 @@
+{
+    "lldb.library": "C:\\Users\\ERIC\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.0.2+Asserts\\usr\\bin\\liblldb.dll",
+    "lldb.launch.expressions": "native",
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    }
+}
